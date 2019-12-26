@@ -1,2 +1,2 @@
 # koatty-SpringCloud
-A microservice development architecture based on koatty + nacos.
+A microservice development architecture based on koatty + SpringCloud.
